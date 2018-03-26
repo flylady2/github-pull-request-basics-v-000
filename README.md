@@ -9,7 +9,7 @@
 ## Overview:
 
 The concept of a pull request is unique to Github. It is a request for the
-owner of a receiving repository to take your changes, that you made in a
+owner of a receiving repository to take the changes that you made in a
 parallel universe ("your fork") and "pull" them into the owner's repository.
 Pull requests power the open source community. Through this process,
 anyone can fork a repo, make changes and submit a pull request. Instead of
